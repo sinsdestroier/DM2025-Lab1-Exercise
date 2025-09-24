@@ -15,3 +15,7 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore CSV files
 *.csv
+
+# sklearn / 其他快取
+scikit_learn_data_cache/
+*.pkz
