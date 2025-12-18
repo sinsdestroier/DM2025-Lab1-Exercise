@@ -374,14 +374,14 @@ resulting:11
 ways:11
 nearly:11
 carpenter:11
-carpenter	boeing:9
-carpenter	boeing	recommend:9
 carpenter	offer:9
 recommend	carpenter	offer:9
 carpenter	recommendations:9
 recommend	carpenter	recommendations:9
 offer	carpenter	recommendations:9
 recommend	offer	carpenter	recommendations:9
+carpenter	boeing:9
+carpenter	boeing	recommend:9
 carpenter	recommend:11
 shape:11
 alt:11
@@ -33342,6 +33342,10 @@ personally	tdawson	feel	forum	proposed	herringshaw	learn:10
 proposed	herringshaw	personally:11
 proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
+proposed	tdawson:12
+proposed	tdawson	feel:11
+personally	proposed	tdawson	feel:11
+proposed	tdawson	personally:12
 proposed	feel:12
 personally	proposed	feel:12
 proposed	forum:12
@@ -33368,10 +33372,6 @@ proposed	learn	forum:12
 personally	proposed	learn	forum:12
 feel	proposed	learn	forum:12
 personally	feel	proposed	learn	forum:12
-proposed	tdawson:12
-proposed	tdawson	feel:11
-personally	proposed	tdawson	feel:11
-proposed	tdawson	personally:12
 proposed	personally:13
 products:15
 perhaps:15
